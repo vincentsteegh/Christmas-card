@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "random": "^5.1.1",
+    "turtle": "^0.6.1"
+  }
+}
